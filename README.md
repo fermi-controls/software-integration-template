@@ -1,3 +1,3 @@
-# software-integration-template
+# Software Integration Template
 
 askldjfs
